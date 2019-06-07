@@ -1,7 +1,7 @@
 # Project_ShinyApp
 ## The Global Carbon Footprint (1970 - 2015) - A Data Visualization Project using R ShinyApp
 
-_**This project is an interactive and dynamic visualization tool that displays global Carbon emissions data over the years (from 1970 till 2015). 
+_**This project is an interactive and dynamic visualization tool that displays global Carbon emissions data over the years (from 1970 till 2015).**_
  - _**A brief blogpost can be found [here](https://nycdatascience.com/blog/student-works/the-global-carbon-footprint-1970-2015/).**_
  - _**The application itself can be found [here](https://codesigma91.shinyapps.io/w19_project/).**_
 
